@@ -4,7 +4,7 @@ This website has been set up on github by me (lessthantwentychars) to showcase m
 
 ### Portfolio/Scripts
 
-###### You came to see my scripts, right? Here they are:
+**You came to see the scripts, right? Here they are:**
 
 Script Name  | Description | Sample
 ------------ | ----------- | ------
