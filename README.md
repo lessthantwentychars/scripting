@@ -4,12 +4,10 @@ This website has been set up on github by me, lessthantwentychars, to display my
 ### Portfolio/Scripts
 ##### You came to see my scripts, right? Here they are:
 
-```markdown
-- Case Spinner: a small sample of a case spinner that I worked on not too long ago. 
-(link: https://gyazo.com/07bf4f7d094753822f6728990f16fb7b)
-
--
-```
+Script Name  | Description | Sample
+------------ | ----------- | ------
+Case Spinner | A Small sample of a case spinner that I worked on not too long ago. | [Gif](https://gyazo.com/07bf4f7d094753822f6728990f16fb7b)
+Content in the first column | Content in the second column
 
 ### Jekyll Themes
 
