@@ -1,8 +1,10 @@
 ## Welcome to lessthantwentychars' scripting portfolio
-This website has been set up on github by me, lessthantwentychars, to display my scripting ability in a portfolio. This is typically used for when people want to hire me for their projects or even when making a game.
+
+This website has been set up on github by me (lessthantwentychars) to showcase my scripts. This is typically used for when people want to hire me for their projects or even when making a game.
 
 ### Portfolio/Scripts
-##### You came to see my scripts, right? Here they are:
+
+###### You came to see my scripts, right? Here they are:
 
 Script Name  | Description | Sample
 ------------ | ----------- | ------
