@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/lessthantwentychars/scripting/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to lessthantwentychars' scripting portfolio
+This website has been set up on github by me, lessthantwentychars, to display my scripting ability in a portfolio. This is typically used for when people want to hire me for their projects or even when making a game.
 
 ### Markdown
 
@@ -36,4 +33,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-You can view your website [here](https://lessthantwentychars.github.io/scripting)
+You can view your website [here](https://lessthantwentychars.github.io/scripting).
