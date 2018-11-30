@@ -1,29 +1,12 @@
 ## Welcome to lessthantwentychars' scripting portfolio
 This website has been set up on github by me, lessthantwentychars, to display my scripting ability in a portfolio. This is typically used for when people want to hire me for their projects or even when making a game.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Portfolio/Scripts
+##### You came to see my scripts, right? Here they are:
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Case Spinner: [a small sample of a case spinner that I worked on not too long ago](https://gyazo.com/07bf4f7d094753822f6728990f16fb7b)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
