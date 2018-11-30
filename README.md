@@ -10,6 +10,7 @@ Script Name  | Description | Sample
 ------------ | ----------- | ------
 Case Spinner | A small sample of a case spinner that I worked on not too long ago. | [Gif](https://gyazo.com/07bf4f7d094753822f6728990f16fb7b)
 Menu Camera | A script that makes the camera turn slightly towards where the mouse is on the screen. Aesthetic purposes only | [Gif](https://gyazo.com/5fcc58bc95d2dec3ede3d1630b2847a3)
+Audiio Visualizer | Audio/Playback of a sound represented by parts | [Gif 1](https://gyazo.com/9bae77ae3d9392aae511c91f760d49f6), [Gif 2](https://gyazo.com/94420ecdf1dd9e68fdfe5b598a2e71a2)
 
 Github Redir: [scripting](https://lessthantwentychars.github.io/scripting/)
 
