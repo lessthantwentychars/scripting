@@ -14,4 +14,4 @@ Menu Camera | A script that makes the camera turn slightly towards where the mou
 
 ### Support or Contact
 
-Need help understanding the page, or want to hire me to script? Find me on [discord](https://discordapp.com/) at jake3639#5668 or on [twitter](https://twitter.com) at @LessRBX
+Need help understanding the page, or want to hire me to script? Find me on [discord](https://discordapp.com/) at >jake3639#5668 or on [twitter](https://twitter.com) at >@LessRBX
